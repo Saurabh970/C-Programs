@@ -43,6 +43,7 @@ void calculate_the_maximum(int n, int k) {
     printf("%d",exor);
 }
 int main() {
+    bool a = true;
     int n, k;
   
     scanf("%d %d", &n, &k);
