@@ -44,7 +44,7 @@ void calculate_the_maximum(int n, int k) {
 }
 int main() {
     int n, k;
-  
+    int B=1000;
     scanf("%d %d", &n, &k);
     calculate_the_maximum(n, k);
  
